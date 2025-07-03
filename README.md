@@ -1,5 +1,7 @@
 # Daily Task Reminder App
+
 Video Demo : https://youtu.be/ibAxY36Xxrs?si=4GH5NcmRbwhHw2OZ
+
 Description : 
 Plan your day, get notified on time , and mark tasks as done - all in one smooth UI
 
